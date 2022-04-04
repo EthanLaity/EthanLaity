@@ -1,6 +1,6 @@
 # 👋 Hi, I’m [Ethan][github] 👋
 
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=ethanlaity.ethanlaity)
+![](https://komarev.com/ghpvc/?username=ethanlaity) ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=ethanlaity.ethanlaity)
 
 ## About Me
 - 🎓 Current PhD student
