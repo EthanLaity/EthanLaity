@@ -37,6 +37,28 @@
 
 <img align="left" alt="" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
+<br>
+
+## Top Languages
+
+<a href="https://github.com/ethanlaity#gh-light-mode-only">
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanlaity&layout=compact&theme=default" alt="My Top Languages" />](https://github.com/anuraghazra/github-readme-stats)
+</a>
+
+<a href="https://github.com/ethanlaity#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanlaity&layout=compact&theme=dark" alt="My Top Languages" />
+</a>
+
+## GitHub Stats
+
+<a href="https://github.com/ethanlaity#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=ethanlaity&count_private=true&show_icons=true&theme=default&icon_color=000000" alt="My GitHub Stats" />
+</a>
+
+<a href="https://github.com/ethanlaity#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=ethanlaity&count_private=true&show_icons=true&theme=dark&icon_color=FFFFFF" alt="My GitHub Stats" />
+</a>
+
 <!---
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/rstudio.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
@@ -63,6 +85,6 @@ You can click the Preview link to take a look at your changes.
 [github]: https://github.com/EthanLaity
 [linkedin]: https://www.linkedin.com/in/ethan-laity/
 [twitter]: https://twitter.com/EthanLaity
-
+[readme_stats]: https://github.com/anuraghazra/github-readme-stats
 
 
