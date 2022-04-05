@@ -49,6 +49,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanlaity&layout=compact&theme=dark" alt="My Top Languages" />
 </a>
 
+Note that this tile does not consider private repositories.
+
 ## GitHub Stats
 
 <a href="https://github.com/ethanlaity#gh-light-mode-only">
