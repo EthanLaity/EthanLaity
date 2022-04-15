@@ -46,7 +46,7 @@
 ## Top Languages
 
 <a href="https://github.com/ethanlaity#gh-light-mode-only">
-  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanlaity&layout=compact&theme=default" alt="My Top Languages" />](https://github.com/anuraghazra/github-readme-stats)
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanlaity&layout=compact&theme=default" alt="My Top Languages" />]
 </a>
 
 <a href="https://github.com/ethanlaity#gh-dark-mode-only">
