@@ -46,11 +46,11 @@
 ## Top Languages
 
 <a href="https://github.com/ethanlaity#gh-light-mode-only">
-  [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanlaity&layout=compact&theme=default" alt="My Top Languages" />]
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanlaity&layout=compact&theme=default&hide=javascript,css,scss,html,rebol,c%2B%2B" alt="My Top Languages" />
 </a>
 
 <a href="https://github.com/ethanlaity#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanlaity&layout=compact&theme=dark" alt="My Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanlaity&layout=compact&theme=dark&hide=javascript,css,scss,html,rebol,c%2B%2B" alt="My Top Languages" />
 </a>
 
 Note that this tile does not consider private repositories.
@@ -67,14 +67,14 @@ Note that this tile does not consider private repositories.
 
 ## Additional Stats
 
-### Activity Graph
+### Streak Stats
 
 <a href="https://github.com/ethanlaity#gh-light-mode-only">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ethanlaity&theme=minimal" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanlaity" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/ethanlaity#gh-dark-mode-only">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ethanlaity&theme=xcode" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanlaity&theme=dark" alt="GitHub Stats" />
 </a>
 
 ### Profile Summary
@@ -87,6 +87,16 @@ Note that this tile does not consider private repositories.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethanlaity&theme=monokai" alt="GitHub Stats" />
 </a>
 
+### Activity Graph
+
+<a href="https://github.com/ethanlaity#gh-light-mode-only">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ethanlaity&theme=minimal" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/ethanlaity#gh-dark-mode-only">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ethanlaity&theme=xcode" alt="GitHub Stats" />
+</a>
+
 <!---
 ### Visit Counter
 
@@ -94,16 +104,6 @@ Note that this tile does not consider private repositories.
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fethanlaity1212%2Fhit-counter" alt="GitHub Stats" />
 </a>
 --->
-
-### Streak Stats
-
-<a href="https://github.com/ethanlaity#gh-light-mode-only">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanlaity" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/ethanlaity#gh-dark-mode-only">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanlaity&theme=dark" alt="GitHub Stats" />
-</a>
 
 <!---
 ### Trophy Stats
