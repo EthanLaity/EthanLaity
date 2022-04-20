@@ -67,51 +67,56 @@ Note that this tile does not consider private repositories.
 
 ## Additional Stats
 
-### Streak Stats
+<details>
+  <summary>Click to expand!</summary>
+  
+  ### Streak Stats
 
-<a href="https://github.com/ethanlaity#gh-light-mode-only">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanlaity" alt="GitHub Stats" />
-</a>
+  <a href="https://github.com/ethanlaity#gh-light-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanlaity" alt="GitHub Stats" />
+  </a>
 
-<a href="https://github.com/ethanlaity#gh-dark-mode-only">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanlaity&theme=dark" alt="GitHub Stats" />
-</a>
+  <a href="https://github.com/ethanlaity#gh-dark-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethanlaity&theme=dark" alt="GitHub Stats" />
+  </a>
 
-### Profile Summary
+  ### Profile Summary
 
-<a href="https://github.com/ethanlaity#gh-light-mode-only">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethanlaity&theme=default" alt="GitHub Stats" />
-</a>
+  <a href="https://github.com/ethanlaity#gh-light-mode-only">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethanlaity&theme=default" alt="GitHub Stats" />
+  </a>
 
-<a href="https://github.com/ethanlaity#gh-dark-mode-only">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethanlaity&theme=monokai" alt="GitHub Stats" />
-</a>
+  <a href="https://github.com/ethanlaity#gh-dark-mode-only">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethanlaity&theme=monokai" alt="GitHub Stats" />
+  </a>
 
-### Activity Graph
+  ### Activity Graph
 
-<a href="https://github.com/ethanlaity#gh-light-mode-only">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ethanlaity&theme=minimal" alt="GitHub Stats" />
-</a>
+  <a href="https://github.com/ethanlaity#gh-light-mode-only">
+    <img src="https://activity-graph.herokuapp.com/graph?username=ethanlaity&theme=minimal" alt="GitHub Stats" />
+  </a>
 
-<a href="https://github.com/ethanlaity#gh-dark-mode-only">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ethanlaity&theme=xcode" alt="GitHub Stats" />
-</a>
+  <a href="https://github.com/ethanlaity#gh-dark-mode-only">
+    <img src="https://activity-graph.herokuapp.com/graph?username=ethanlaity&theme=xcode" alt="GitHub Stats" />
+  </a>
 
-<!---
-### Visit Counter
+  <!---
+  ### Visit Counter
 
-<a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fethanlaity1212%2Fhit-counter" alt="GitHub Stats" />
-</a>
---->
+  <a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fethanlaity1212%2Fhit-counter" alt="GitHub Stats" />
+  </a>
+  --->
 
-<!---
-### Trophy Stats
+  <!---
+  ### Trophy Stats
 
-<a>
-  <img src="https://github-profile-trophy.vercel.app/?username=ethanlaity" alt="GitHub Stats" />
-</a>
---->
+  <a>
+    <img src="https://github-profile-trophy.vercel.app/?username=ethanlaity" alt="GitHub Stats" />
+  </a>
+  --->
+  
+</details>
 
 <!---
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/rstudio.svg" />
